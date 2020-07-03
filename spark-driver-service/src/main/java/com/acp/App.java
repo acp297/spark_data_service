@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 
 /**
- * Driver class for ODS-Data-Services
+ * Driver class for Spark-Data-Services
  *
  * @author Anand Prakash
  */
