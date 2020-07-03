@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spark-commons" />
+        <module name="spark-driver-service" />
+        <module name="spark-read-service" />
+        <module name="spark-sql-load-service" />
+        <module name="spark-write-service" />
+        <module name="spark-deltalake-upsert-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spark-commons" target="1.8" />
+      <module name="spark-deltalake-upsert-service" target="1.8" />
+      <module name="spark-driver-service" target="1.8" />
+      <module name="spark-read-service" target="1.8" />
+      <module name="spark-sql-load-service" target="1.8" />
+      <module name="spark-write-service" target="1.8" />
+      <module name="spark_data_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

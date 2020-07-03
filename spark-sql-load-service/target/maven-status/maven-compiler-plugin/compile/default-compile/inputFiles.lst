@@ -1,0 +1,10 @@
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/LoaderBuilder.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/LoaderFactory.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/enums/SqlLoaderType.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/azureSqlDataBase/AbstractDbLoader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/azureSqlDataWarehouse/AbstractDwLoader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/azureSqlDataWarehouse/SqlDwLoader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/Loader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/azureSqlDataBase/SqlDbLoader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/config/SqlLoaderConfig.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-sql-load-service/src/main/java/com/acp/sqlJdbc/SqlJdbcUpdate.java

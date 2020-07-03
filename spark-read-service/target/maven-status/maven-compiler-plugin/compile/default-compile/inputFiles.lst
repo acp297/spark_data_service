@@ -1,0 +1,10 @@
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/readers/AvroReader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/readers/CsvReader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/config/ReaderConfig.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/ReaderBuilder.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/readers/ParquetReader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/readers/Reader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/readers/JsonReader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/readers/DeltaReader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/readers/AbstractReader.java
+/Users/a0p04op/walmart/myGitrepo/spark_data_service/spark-read-service/src/main/java/com/acp/ReaderFactory.java

@@ -1,0 +1,3 @@
+com/acp/write/config/UpsertConfig.class
+com/acp/write/UpsertBuilder.class
+com/acp/write/DeltaLakeUpsertWriter.class

@@ -1,0 +1,11 @@
+com/acp/ParquetWriter.class
+com/acp/JsonWriter.class
+com/acp/CsvWriter.class
+com/acp/AbstractWriter.class
+com/acp/WriterFactory$1.class
+com/acp/DeltaWriter.class
+com/acp/AvroWriter.class
+com/acp/config/WriterConfig.class
+com/acp/WriterBuilder.class
+com/acp/WriterFactory.class
+com/acp/Writer.class

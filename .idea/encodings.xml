@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spark-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-deltalake-upsert-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-deltalake-upsert-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-driver-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-driver-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-read-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-read-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-sql-load-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-sql-load-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-write-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-write-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

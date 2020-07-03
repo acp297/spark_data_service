@@ -1,0 +1,11 @@
+com/acp/LoaderBuilder.class
+com/acp/azureSqlDataBase/SqlDbLoader.class
+com/acp/LoaderFactory$1.class
+com/acp/azureSqlDataWarehouse/AbstractDwLoader.class
+com/acp/sqlJdbc/SqlJdbcUpdate.class
+com/acp/azureSqlDataBase/AbstractDbLoader.class
+com/acp/config/SqlLoaderConfig.class
+com/acp/LoaderFactory.class
+com/acp/Loader.class
+com/acp/azureSqlDataWarehouse/SqlDwLoader.class
+com/acp/enums/SqlLoaderType.class

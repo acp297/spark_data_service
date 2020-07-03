@@ -1,0 +1,11 @@
+com/acp/readers/CsvReader.class
+com/acp/readers/AvroReader.class
+com/acp/readers/Reader.class
+com/acp/ReaderFactory.class
+com/acp/readers/JsonReader.class
+com/acp/config/ReaderConfig.class
+com/acp/readers/AbstractReader.class
+com/acp/readers/DeltaReader.class
+com/acp/readers/ParquetReader.class
+com/acp/ReaderBuilder.class
+com/acp/ReaderFactory$1.class

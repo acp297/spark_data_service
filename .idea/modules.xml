@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark-commons/spark-commons.iml" filepath="$PROJECT_DIR$/spark-commons/spark-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-deltalake-upsert-service/spark-deltalake-upsert-service.iml" filepath="$PROJECT_DIR$/spark-deltalake-upsert-service/spark-deltalake-upsert-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-driver-service/spark-driver-service.iml" filepath="$PROJECT_DIR$/spark-driver-service/spark-driver-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-read-service/spark-read-service.iml" filepath="$PROJECT_DIR$/spark-read-service/spark-read-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-sql-load-service/spark-sql-load-service.iml" filepath="$PROJECT_DIR$/spark-sql-load-service/spark-sql-load-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-write-service/spark-write-service.iml" filepath="$PROJECT_DIR$/spark-write-service/spark-write-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark_data_service.iml" filepath="$PROJECT_DIR$/.idea/spark_data_service.iml" />
+    </modules>
+  </component>
+</project>
